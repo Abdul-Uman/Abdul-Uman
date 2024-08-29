@@ -10,14 +10,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### SIEM
+### SIEM ### VAPT 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Acadamic Projects
-- <a href="https://github.com/Abdul-Uman/Blockchain-Implementation-in-Financial-Industry-to-Enhance-Scalability">Block Chain Implementation in Finacial Industry To Enhance Scalability </a>
-- <a href="https://github.com/Abdul-Uman/Detection-of-Fake-Bank-Currency-using-Cyber-Security-Model"> Detection of Fake Currency using Cyber Security Model </a>
+
 ## Projects
 - <a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration">Splunk Installation And Integration </a>
 - <a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence">Splunk ES Incident Response using Correlation and Threat Intelligence </a>

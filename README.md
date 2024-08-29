@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### SIEM ### VAPT 
+### SIEM 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>

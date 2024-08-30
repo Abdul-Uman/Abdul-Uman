@@ -15,6 +15,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Vulnerability Scanner 
+
+<img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
+
+
 
 ## Projects
 - <a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration">Splunk Installation And Integration </a>
